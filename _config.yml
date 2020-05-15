@@ -1,38 +1,8 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@iamvee
-y7kim /
-agency-jekyll-theme
-
-24
-667
-
-    1.4k
-
-Code
-Issues 12
-Pull requests 10
-Actions
-Projects 0
-Wiki
-Security 0
-
-    Insights
-
-agency-jekyll-theme/_config.yml
-@gregorydgarcia gregorydgarcia Moved CSS Config to template.yml 730995b on Apr 13, 2016
-@y7kim
-@gregorydgarcia
-65 lines (57 sloc) 1.47 KB
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://iamv.ir/
+baseurl: /Learnin-Bash/
 
 # Site settings
-title: Awesome Title
+title: Learning Bash
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
